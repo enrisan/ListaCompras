@@ -1,4 +1,4 @@
-# ListaCompras
+# Lista Compras
 Aldominium 46. Lista de compras
 
 Este programa consta de un ejercicio para definir funciones
