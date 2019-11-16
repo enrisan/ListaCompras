@@ -45,4 +45,4 @@ while True:
 
 print()
 print("Gracias por usar nuestra Lista de Compras")
-4print("¡Vuelve Pronto!")
+print("¡Vuelve Pronto!")
