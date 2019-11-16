@@ -1,4 +1,12 @@
-#Agregar artículos / Remover artículos / Ver artículos
+# Este programa consta de un ejercicio para definir funciones
+# Las actividades de cada función se enlistan en un menú
+# Las tres funciones corresponden a las tres primeras opciones de un 
+# menú en un ciclo while, la cuarta opción es la salida.
+#
+# Agregar artículos / Remover artículos / Ver artículos
+#
+# No tiene ningún mecanismo de validación.
+# trabaja en terminal.
 
 lista_articulos = list()
 
