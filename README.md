@@ -1,5 +1,5 @@
 # Lista Compras
-## Aldominium 46. Lista de compras
+## Lista de compras en línea de comandos.
 
 Este programa consta de un ejercicio para definir funciones
 Las actividades de cada función se enlistan en un menú
